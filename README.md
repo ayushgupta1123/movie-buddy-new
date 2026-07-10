@@ -180,20 +180,6 @@ The similarity between movies is computed using **Cosine Similarity**, ensuring 
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots of your application here.
-
-```
-Home Screen
-
-Recommendation Result
-
-Movie Cards
-```
-
----
-
 ## 💡 Learning Outcomes
 
 This project helped strengthen knowledge in:
